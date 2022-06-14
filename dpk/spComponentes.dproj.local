@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/06/09 16:18:42.000.232,=rtl.dcp</Transaction>
+    <Transaction>2022/06/09 16:32:03.000.678,=rtl.dcp</Transaction>
+    <Transaction>2022/06/09 16:58:04.000.882,=rtl.dcp</Transaction>
+    <Transaction>2022/06/09 16:58:52.000.793,C:\Users\cazev\OneDrive\Documentos\RAD Studio\Projects\Package1.dproj=C:\Projetos\Prova Delphi\dpk\spComponentes.dproj</Transaction>
+    <Transaction>2022/06/09 17:01:30.000.683,=C:\Projetos\Prova Delphi\dpk\uspQuery.pas</Transaction>
+    <Transaction>2022/06/09 17:01:30.000.753,=xmlrtl.dcp</Transaction>
+    <Transaction>2022/06/09 17:01:30.000.735,=FireDACCommonDriver.dcp</Transaction>
+    <Transaction>2022/06/09 17:01:30.000.744,=FireDACCommon.dcp</Transaction>
+    <Transaction>2022/06/09 17:01:30.000.727,=FireDACSqliteDriver.dcp</Transaction>
+    <Transaction>2022/06/09 17:01:30.000.718,=FireDAC.dcp</Transaction>
+    <Transaction>2022/06/09 17:01:30.000.709,=dbrtl.dcp</Transaction>
+  </Transactions>
+</BorlandProject>

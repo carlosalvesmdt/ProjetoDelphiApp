@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/06/14 10:39:01.000.949,=C:\Projetos\Prova Delphi\TesteUnitario\TestuntFunctionTarefas1.pas</Transaction>
+    <Transaction>2022/06/14 10:39:02.000.262,=C:\Projetos\Prova Delphi\units\untFunctionTarefas1.pas</Transaction>
+    <Transaction>2022/06/14 10:52:23.000.867,=C:\Projetos\Prova Delphi\TesteUnitario\TestuntFunctionTarefas2.pas</Transaction>
+    <Transaction>2022/06/14 10:52:23.000.920,=C:\Projetos\Prova Delphi\units\untFunctionTarefas2.pas</Transaction>
+    <Transaction>2022/06/14 11:13:15.000.109,C:\Projetos\Prova Delphi\TesteUnitario\TestuntFunctionTarefas2.pas=</Transaction>
+    <Transaction>2022/06/14 11:16:05.000.809,=C:\Projetos\Prova Delphi\TesteUnitario\TestuntFunctionTarefas2.pas</Transaction>
+    <Transaction>2022/06/14 11:41:16.000.134,=C:\Projetos\Prova Delphi\units\untFunctionTarefas3.pas</Transaction>
+    <Transaction>2022/06/14 11:41:16.000.071,=C:\Projetos\Prova Delphi\TesteUnitario\TestuntFunctionTarefas3.pas</Transaction>
+  </Transactions>
+</BorlandProject>
