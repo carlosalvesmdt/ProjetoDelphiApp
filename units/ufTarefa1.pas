@@ -51,6 +51,9 @@ procedure TfTarefa1.btnGeraSQLClick(Sender: TObject);
 var ClassTarefas1 : TClassTarefas1;
 begin
      mSqlGerado.Clear;
+     spQuery.spCondicoes.Clear;
+     spQuery.spColunas.Clear;
+     spQuery.spTabelas.Clear;
      spQuery.spCondicoes.AddStrings(mCondicoes.Lines);
      spQuery.spColunas.AddStrings(mColunas.Lines);
      spQuery.spTabelas.AddStrings(mTabelas.Lines);
